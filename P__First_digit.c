@@ -8,4 +8,6 @@ int main(){
     } else {
         printf("ODD");
     }
+
+    // solution accepted : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
 }
